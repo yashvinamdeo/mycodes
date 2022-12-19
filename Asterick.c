@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Program to print a right triangle using *
 int main()
 {
 int i,j,rows;
